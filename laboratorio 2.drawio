@@ -115,6 +115,70 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kgEmoHbcg7crbnTSvB_r-1" value="inicio&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kgEmoHbcg7crbnTSvB_r-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kgEmoHbcg7crbnTSvB_r-1" target="kgEmoHbcg7crbnTSvB_r-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="260" as="sourcePoint" />
+            <mxPoint x="410" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kgEmoHbcg7crbnTSvB_r-3" value="&quot;Ingresar un número&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="290" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kgEmoHbcg7crbnTSvB_r-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kgEmoHbcg7crbnTSvB_r-3" target="kgEmoHbcg7crbnTSvB_r-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="260" as="sourcePoint" />
+            <mxPoint x="410" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kgEmoHbcg7crbnTSvB_r-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kgEmoHbcg7crbnTSvB_r-5" target="kgEmoHbcg7crbnTSvB_r-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kgEmoHbcg7crbnTSvB_r-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kgEmoHbcg7crbnTSvB_r-5" target="kgEmoHbcg7crbnTSvB_r-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kgEmoHbcg7crbnTSvB_r-5" value="&quot;¿Número % 2 == 0?&quot;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="390" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kgEmoHbcg7crbnTSvB_r-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kgEmoHbcg7crbnTSvB_r-6" target="kgEmoHbcg7crbnTSvB_r-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kgEmoHbcg7crbnTSvB_r-6" value="si&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="410" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kgEmoHbcg7crbnTSvB_r-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kgEmoHbcg7crbnTSvB_r-9" target="kgEmoHbcg7crbnTSvB_r-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="645" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kgEmoHbcg7crbnTSvB_r-9" value="&quot;El número es par&quot;." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kgEmoHbcg7crbnTSvB_r-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kgEmoHbcg7crbnTSvB_r-11" target="kgEmoHbcg7crbnTSvB_r-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kgEmoHbcg7crbnTSvB_r-11" value="no&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kgEmoHbcg7crbnTSvB_r-13" value="&quot;El número es impar&quot;." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="400" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kgEmoHbcg7crbnTSvB_r-19" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kgEmoHbcg7crbnTSvB_r-13" target="kgEmoHbcg7crbnTSvB_r-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="400" as="sourcePoint" />
+            <mxPoint x="285" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="285" y="340" />
+              <mxPoint x="-5" y="290" />
+              <mxPoint x="235" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kgEmoHbcg7crbnTSvB_r-21" value="fin&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
